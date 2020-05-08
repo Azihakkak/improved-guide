@@ -1,4 +1,4 @@
-# Project 02
+# Project 02 / Makrt
 
 Market Research Tool for Company Ads
 
